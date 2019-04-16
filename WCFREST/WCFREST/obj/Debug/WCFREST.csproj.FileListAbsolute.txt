@@ -1,0 +1,7 @@
+E:\Web Service\WCFREST\WCFREST\bin\WCFREST.dll.config
+E:\Web Service\WCFREST\WCFREST\bin\WCFREST.dll
+E:\Web Service\WCFREST\WCFREST\bin\WCFREST.pdb
+E:\Web Service\WCFREST\WCFREST\obj\Debug\WCFREST.csprojAssemblyReference.cache
+E:\Web Service\WCFREST\WCFREST\obj\Debug\WCFREST.csproj.CoreCompileInputs.cache
+E:\Web Service\WCFREST\WCFREST\obj\Debug\WCFREST.dll
+E:\Web Service\WCFREST\WCFREST\obj\Debug\WCFREST.pdb

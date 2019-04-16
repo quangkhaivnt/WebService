@@ -1,0 +1,7 @@
+E:\Web Service\DemoRESTServiceCRUD\DemoRESTServiceCRUD\bin\DemoRESTServiceCRUD.dll.config
+E:\Web Service\DemoRESTServiceCRUD\DemoRESTServiceCRUD\bin\DemoRESTServiceCRUD.dll
+E:\Web Service\DemoRESTServiceCRUD\DemoRESTServiceCRUD\bin\DemoRESTServiceCRUD.pdb
+E:\Web Service\DemoRESTServiceCRUD\DemoRESTServiceCRUD\obj\Debug\DemoRESTServiceCRUD.csprojAssemblyReference.cache
+E:\Web Service\DemoRESTServiceCRUD\DemoRESTServiceCRUD\obj\Debug\DemoRESTServiceCRUD.csproj.CoreCompileInputs.cache
+E:\Web Service\DemoRESTServiceCRUD\DemoRESTServiceCRUD\obj\Debug\DemoRESTServiceCRUD.dll
+E:\Web Service\DemoRESTServiceCRUD\DemoRESTServiceCRUD\obj\Debug\DemoRESTServiceCRUD.pdb
